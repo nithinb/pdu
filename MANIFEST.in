@@ -3,5 +3,6 @@ recursive-include src *
 include ./*.md
 include ./*.txt
 include ./*.cmake
+include ./*.cmake
 
 
